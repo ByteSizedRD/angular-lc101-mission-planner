@@ -1,4 +1,8 @@
 .box {
     display: flex;
     padding: 10px;
+    border-style: groove dotted groove dotted;
+    border-width: 10px;
+    border-color: green;
 }
+
